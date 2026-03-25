@@ -1,3 +1,5 @@
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1854--4003-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1854-4003)
+---
 ![Menu](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/menu.png)
 ![RGB Extractino and Translation](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/01.png)
 ![Smooth Filter (mean and median)](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/02.png)
