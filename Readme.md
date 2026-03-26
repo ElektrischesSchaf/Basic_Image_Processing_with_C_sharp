@@ -1,4 +1,5 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1854--4003-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1854-4003)
+[![License](https://img.shields.io/github/license/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp?color=750014)](./LICENSE)
 ---
 ![Menu](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/menu.png)
 ![RGB Extractino and Translation](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/01.png)
