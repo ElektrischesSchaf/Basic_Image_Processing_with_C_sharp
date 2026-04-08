@@ -13,5 +13,5 @@
 ![Connected component](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/07.png)
 
 ---
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)  
+ [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) This work by [Hsi-Chih Wu](https://orcid.org/0009-0004-1854-4003) is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
